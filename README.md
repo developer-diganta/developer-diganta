@@ -5,7 +5,7 @@
 - 📫 Email's right here -> digantabanik2000@gmail.com
 
 
-[![Diganta's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-diganta)]
+![Diganta's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-diganta&show_icons=true&theme=tokyonight)
 
 <!---
 developer-diganta/developer-diganta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
