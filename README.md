@@ -27,7 +27,9 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-diganta&show_icons=true&locale=en&layout=compact" alt="developer-diganta" /></p>
-<br/>
+&nbsp
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-diganta&show_icons=true&locale=en" alt="developer-diganta" /></p>
-<br/>
+&nbsp
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-diganta&" alt="developer-diganta" /></p>
