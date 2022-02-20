@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diganta Kr Banik</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-diganta&label=Profile%20views&color=0e75b6&style=flat" alt="developer-diganta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/banik_diganta" target="blank"><img src="https://img.shields.io/twitter/follow/banik_diganta?logo=twitter&style=for-the-badge" alt="banik_diganta" /></a> </p>
 
