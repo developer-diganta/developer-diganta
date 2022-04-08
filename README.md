@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **anything!**
 
-- 👨‍💻 All of my projects are available at [digantakrbanik.codes](digantakrbanik.codes)
+- 👨‍💻 Visit my portfolio site at [digantakrbanik.codes](digantakrbanik.codes)
 
 - 💬 Ask me about **MERN stack, Web Development, Computer Science!**
 
