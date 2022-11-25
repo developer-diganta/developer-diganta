@@ -44,7 +44,7 @@
 <div><img src="https://github-readme-stats.vercel.app/api?username=developer-diganta&show_icons=true&locale=en&theme=tokyonight" alt="developer-diganta" /></div></td>
 </tr>
 </table>
-<div align="center" style="margin-bottom:20px"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=developer-diganta&theme=tokyonight" alt="developer-diganta"/></div>
+<div align="center" style="margin-bottom:20px"><img align="center" src="https://streak-stats.demolab.com?user=developer-diganta&theme=tokyonight" alt="developer-diganta"/></div>
 &nbsp
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-diganta&margin-w=6&theme=tokyonight" alt="developer-diganta" /></a> </p>
 
