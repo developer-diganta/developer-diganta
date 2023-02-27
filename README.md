@@ -48,7 +48,7 @@
 &nbsp
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-diganta&margin-w=6&theme=tokyonight" alt="developer-diganta" /></a> </p>
 
-<a href="http://www.github.com/developer-diganta"><img src="https://activity-graph.herokuapp.com/graph?username=developer-diganta&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <h2 align="center">Experience 🚀</h2>
 <table>
 <tr>
