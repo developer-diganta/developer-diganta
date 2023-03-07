@@ -62,6 +62,7 @@ Worked with the technical content team of Curious JR to create web apps which fa
 
 <h2 align="center">Acheivements 🏆</h2>
 
+- **Google Summer Of Code Mentor** @keploy
 - Selected Among **Top 10** in Google Developers Group Cloud Kolkata Community Hackday
 - Won the **Best Costume Hack(UI) in MLH Hack-O-Lantern Hackathon**
 - Selected in **Top 5** and won **Budding Talent Award** in Spider: The Web Crawler Hackathon
