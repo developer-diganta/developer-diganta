@@ -68,6 +68,7 @@ Worked with the technical content team of Curious JR to create web apps which fa
 - Selected in **Top 5** and won **Budding Talent Award** in Spider: The Web Crawler Hackathon
 - Secured **Global Rank** of **170** in TCS Codevita Season 12
 
+
 <!-- <h2 align="center"> Random Dev Meme 😂</h2> -->
 <!-- <div align="center"><img src="https://random-memer.herokuapp.com/" width="400px"/></div> -->
 <!-- <h2 align="center">Here' Some Music 🎵</h2> -->
